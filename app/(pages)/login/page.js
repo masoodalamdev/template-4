@@ -32,7 +32,7 @@ export default function page() {
                 text="Sign In"
                 
                 />
-                <p>Dont't have an Account? Create account</p>
+                <p>Dont&apos;t have an Account? Create account</p>
 
             </div>
         </div>
